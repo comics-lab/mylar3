@@ -1,0 +1,9 @@
+#!/bin/sh
+'''exec' "/home/rmleonard/projects/Home Projects/comics-lab/mylar3-test/.venv/bin/python3" "$0" "$@"
+' '''
+import sys
+from user_agent.cli import script_ua
+if __name__ == '__main__':
+    if sys.argv[0].endswith('.exe'):
+        sys.argv[0] = sys.argv[0][:-4]
+    sys.exit(script_ua())
