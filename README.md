@@ -1,3 +1,10 @@
+## Truth Files
+
+- `COMPREHENSION.md`
+- `DECISIONS.md`
+- `ROADMAP.md`
+- `GLOSSARY.md`
+
 ## ![Mylar Logo](https://github.com/mylar3/mylar3/blob/master/data/images/mylarlogo.png) Mylar3
 
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/mylar3/mylar3?color=blue&label=current%20release&sort=semver)](https://github.com/mylar3/mylar3/releases)
