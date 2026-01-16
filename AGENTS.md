@@ -1,4 +1,4 @@
-# AGENTS.md — mylar3
+# AGENTS.md — mylar3-test
 
 This repo follows the org-wide master profile:
 - `../AGENTS.md`
