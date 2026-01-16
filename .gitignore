@@ -19,3 +19,6 @@ env/
 *.swp
 # git mergetool backup files
 *.orig
+backup/
+comicbooks/
+pyprojects.toml
